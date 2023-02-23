@@ -1,0 +1,1 @@
+docker build -t degian:stable-selfsigncert . --no-cache --progress=plain
